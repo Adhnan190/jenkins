@@ -132,7 +132,7 @@ def cricket_game():
     elif player_runs < opponent_runs:
         print("\nSorry! You lost. Better luck next time.")
     else:
-        print("\nIt's a tie! Great game!")
+        print("\nIt's a tie!")
 
 # Run the game
 if __name__ == "__main__":
